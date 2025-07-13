@@ -1,7 +1,7 @@
 ### Monique's Spotify Top 50 Data from 2024
 
-#### Tableau Dashboard: 
-![Product Data Analyst](https://github.com/principalscientist/spotify-top50/blob/0b74fb48cdda8eeadad8e3c76976a5c57a99b9dc/Image.png)
+![Product Data Analyst](https://github.com/principalscientist/spotify-top50/blob/899b254d17052245f9f511346f65450316eb7cc3/A11sM7ihyNL.png)
+
 
 ### Background
 This project demonstrates an end-to-end data pipeline connecting Spotify listening data to a Tableau dashboard. The process involved authenticating access to the Spotify Web API using OAuth 2.0 and extracting the user’s top 50 most-played tracks via the spotipy Python library. Track data was enriched with artist-level metadata such as genres, popularity scores, and follower counts, then transformed and structured using pandas. The cleaned dataset was exported to CSV and visualized in Tableau Public through interactive charts, including songs ordered by popularity, top listened genres, and artist popularity. The workflow highlights key skills in API integration, data wrangling, and visual analytics.
@@ -11,5 +11,6 @@ This project demonstrates an end-to-end data pipeline connecting Spotify listeni
 * Data Handling (pandas, JSON, CSV, merging)
 * Visualization (Tableau)
 * Systems Knowledge (terminal, file paths, Python install)
-* Analysis & Insight
+* Analysis & Insight (Genre exploration, popularity trends)
 
+![Product Data Analyst](https://github.com/principalscientist/spotify-top50/blob/0b74fb48cdda8eeadad8e3c76976a5c57a99b9dc/Image.png)
