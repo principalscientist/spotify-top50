@@ -1,6 +1,6 @@
 ### Monique's Spotify Top 50 Data from 2024
 
-![Product Data Analyst](https://github.com/principalscientist/spotify-top50/blob/899b254d17052245f9f511346f65450316eb7cc3/A11sM7ihyNL.png)
+![Product Data Analyst](https://github.com/principalscientist/spotify-top50/blob/b002ea40547e873689025095b3876c795d52be15/alexander-shatov-JlO3-oY5ZlQ-unsplash-scaled.jpg)
 
 
 ### Background
