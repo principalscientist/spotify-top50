@@ -18,6 +18,7 @@ This project demonstrates an end-to-end data pipeline connecting Spotify listeni
 
 ### Mentioned Albums
 ![Product Data Analyst](https://github.com/principalscientist/spotify-top50/blob/ee2edb5139b49df8074e244b10e3728d68fb3946/drake.jpg)
+![Product Data Analyst](https://github.com/principalscientist/spotify-top50/blob/81beee0ee99801c163e4af8f8ee875556aedbd19/ThirstyAlbumCover.jpg)
 
 
 
